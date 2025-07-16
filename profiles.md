@@ -5,3 +5,6 @@
 - Paulo;
 - Gabriel;
 - Fabio;
+- Murilo;
+- Bruno;
+- João Pedro;
