@@ -1,10 +1,10 @@
 # Profiles
 
-- Guilherme;
-- Gustavo;
-- Paulo;
-- Gabriel;
-- Fabio;
-- Murilo;
-- Bruno;
-- João Pedro;
+- Guilherme (CEO);
+- Gustavo (Designer);
+- Paulo (Back-end);
+- Gabriel (Infraestrutura);
+- Fabio (Front-end);
+- Murilo (Back-end Jr.);
+- Bruno (Front-end Jr.);
+- João Pedro (Full-stack);
